@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Images/python2.png</file>
+    <file>Images/0.png</file>
+    <file>Images/welcome.png</file>
+    <file>Images/pyt.ico</file>
+    <file>Images/edit-redo.png</file>
+    <file>Images/2.png</file>
+    <file>Images/Delete.png</file>
+    <file>Images/archive-insert-directory.png</file>
+    <file>Images/edit-copy.png</file>
+    <file>Images/111.png</file>
+    <file>Images/editcut.png</file>
+    <file>Images/editdelete.png</file>
+    <file>Images/editpaste.png</file>
+    <file>Images/filenew.png</file>
+    <file>Images/fileopen.png</file>
+    <file>Images/filesave.png</file>
+    <file>Images/logo-saida.png</file>
+    <file>Images/Printer.png</file>
+    <file>Images/stock_save-as.png</file>
+    <file>Images/undo.png</file>
+  </qresource>
+</RCC>
